@@ -7,3 +7,5 @@ class Dog
   def initialize
     self << @all
   end
+
+end
